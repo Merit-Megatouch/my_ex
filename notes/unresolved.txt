@@ -7,8 +7,5 @@ TwDrvFifo_ioctl | libtouchscreen.so
 TwDrvFifo_open | libtouchscreen.so
 TwDrvFifo_read | libtouchscreen.so
 TwDrvFifo_write | libtouchscreen.so
-NetGlobals::NetSpriteUnRegister(NetSprite*, unsigned char) | libmeritbasegame.so
-NetGlobals::NetSpriteUnRegister(NetSprite*, unsigned char) | libmessagesystem.so
-USBIO::JoystickFound() | libmeritbasegame.so
 SoundOGG::PlayOGG(char*, unsigned short, int) | my_ex.so
 SoundOGG::StopOGG(SoundOGG*) | my_ex.so
